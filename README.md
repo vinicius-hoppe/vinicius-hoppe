@@ -5,9 +5,10 @@ Trabalho com desenvolvimento e integração de soluções para Internet das Cois
 - 🚀 Sempre em busca de aprender novas tecnologias e colaborar com a comunidade.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  
+  <img align="center" alt="Vini-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Vini-Java" height="40" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+   <img align="center" alt="Vini-cpp" height="40" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+
   ##
 <div> 
   <a href="https://www.instagram.com/vini.hoppe/i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
